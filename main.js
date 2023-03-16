@@ -43,7 +43,7 @@
         getEmail(newUser);
     }
 
-
+/**********skicka till servern*********** */
     function getEmail(newUser){
     console.log("hej", newUser);
 
